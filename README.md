@@ -20,7 +20,6 @@ AI 기술과 웹 백엔드에 관심이 많은 신입 개발자입니다.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 **Backend:**  
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   
 **DB / Infra:**  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
@@ -45,7 +44,7 @@ JWT, GitHub Actions, RabbitMQ, Elasticsearch
 ## 📫 Contact
 
 - 📧 suhyeonb@gmail.com
-- 📝 [개인 블로그](https://velog.io/@siha_014/) *(있다면 추가)*
+- 📝 [개인 블로그](https://velog.io/@siha_014/) 
 
 
 ---
