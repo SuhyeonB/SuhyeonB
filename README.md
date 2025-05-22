@@ -7,9 +7,8 @@ AI 기술과 웹 백엔드에 관심이 많은 신입 개발자입니다.
 
 ## 💡 About Me
 
-- 🔭 2025년 현재, Spring Boot 기반 백엔드 개발자로 커리어를 시작하고 있습니다.
-- 🤖 LLM, OpenAPI, 검색엔진(Elasticsearch) 기반의 데이터 처리에 관심이 많습니다.
-- 🧠 협업을 중시하며, 프로젝트 회고와 기술 블로그 작성을 좋아합니다.
+- 🔭 2025년 현재, Spring Boot 기반 백엔드 개발자로써 발돋움하고 있습니다.
+- 🤖 LLM, OpenAPI, 검색엔진(Elasticsearch) 등 데이터 처리에 관심이 많습니다.
 
 ---
 
@@ -26,7 +25,7 @@ AI 기술과 웹 백엔드에 관심이 많은 신입 개발자입니다.
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
 **Etc:**  
-JWT, GitHub Actions, RabbitMQ, Elasticsearch
+JWT, GitHub Actions
 
 ---
 
