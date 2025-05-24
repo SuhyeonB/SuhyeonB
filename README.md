@@ -41,8 +41,6 @@ JWT, GitHub Actions
 ---
 
 ## 📫 Contact
-
-- 📧 suhyeonb@gmail.com
 - 📝 [개인 블로그](https://velog.io/@siha_014/) 
 
 
