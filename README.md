@@ -8,7 +8,7 @@ AI 기술과 웹 백엔드에 관심이 많은 신입 개발자입니다.
 ## 💡 About Me
 
 - 🔭 2025년 현재, Spring Boot 기반 백엔드 개발자로써 발돋움하고 있습니다.
-- 🤖 LLM, OpenAPI, 검색엔진(Elasticsearch) 등 데이터 처리에 관심이 많습니다.
+- 🤖 AI, OpenAPI, 검색엔진(Elasticsearch) 등에 관심이 많습니다.
 
 ---
 
